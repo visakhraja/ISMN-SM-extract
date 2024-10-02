@@ -5,7 +5,7 @@ ISMN files are downloaded as a compressed .zip file after selecting the data fro
 
 Keep this data in the current working directory
 
-To run the code the following packages has to be installed:
+To run the code the following packages have to be installed:
 
 ismn.interface
 os
@@ -15,7 +15,7 @@ matplotlib.pyplot
 
 Please change the latitude, longitude, depth_from, depth_to, start_date and end_date according to your study
 
-This script extract the daily soil moisture for a particular location, dpeth and time range
+This script extracts the daily soil moisture for a particular location, depth and time range
 
 
 
